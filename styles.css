@@ -20,7 +20,7 @@ body {
       .style4 {color:red; font-weight:bold;}
 			.style5 {background-color:#ffffff; font-family:sans-serif; color:#d1d1d1; font-size:20px; padding:20px;}
 			.style6 {font-family:monospace; color:#4286f4; font-size:25px; width:300;}
-			.style7 {font-family:sans-serif; font-size:15px; width:300px; background-color:#ffffff; padding:20px; height:100px; overflow:scroll; text-align:center;}
+			.style7 {font-family:sans-serif; font-size:15px; width:500px; background-color:#ffffff; padding:20px; height:100px; text-align:center;}
 			.style8 {text-align:center;}
 			a:hover {color:black;}
 			a:active {color:#d1d1d1;}
