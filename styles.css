@@ -1,0 +1,26 @@
+body {
+          background:#dddddd;
+      }
+	  .style1 {
+	      border:1px solid rgb(0,0,0);
+	      padding:5px;
+	      padding-left:10px;
+	      color:white;
+	      margin:5px;
+	      text-decoration:none;
+	      background:#aaaaaa;
+        font-family:sans-serif;
+        font-weight:bold;
+        font-size:20px;
+        color:white;
+        text-decoration:none;
+      }
+			.style2 {border-top:1px solid #5e5e5e;}
+      .style3 {color:blue; font-style:italic;}
+      .style4 {color:red; font-weight:bold;}
+			.style5 {background-color:#ffffff; font-family:sans-serif; color:#d1d1d1; font-size:20px; padding:20px;}
+			.style6 {font-family:monospace; color:#4286f4; font-size:25px; float:left; width:300;}
+			.style7 {font-family:sans-serif; font-size:15px; width:300px; background-color:#ffffff; padding:20px; height:100px; overflow:scroll; float:left; align-self:left;}
+			.style8 {text-align:center;}
+			a:hover {color:black;}
+			a:active {color:#d1d1d1;}
